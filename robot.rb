@@ -9,6 +9,7 @@
 ###########################################
 
 require 'RMagick'
+require 'rubygems'
 require 'httparty'
 
 WIDTH  = 264
